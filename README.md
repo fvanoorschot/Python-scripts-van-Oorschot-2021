@@ -7,4 +7,4 @@ test_sr_calculation.py: running the functions of sr_calculation
 
 significance_function.py: function to calculate statistical significance of the results
 
-Reference: F. van Oorschot et al. (2021), 'Climate controlled root zone paramters show potential to improve water flux simulations by land surface models', Earth System Dynamics, DOI
+Reference: F. van Oorschot et al. (2021), 'Climate controlled root zone paramters show potential to improve water flux simulations by land surface models' (in preparation)
